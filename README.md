@@ -88,11 +88,9 @@ The study combines statistical techniues and machine learning models to extract 
 * Certain customer segments show higher churn rates
 * Machine learning models effectively predict churn behavior
   
-
-## 📌 Future Scope
+## Future Scope
 
 * Apply advanced models like XGBoost
 * Improve model performance using hyperparameter tuning
 * Deploy model using Streamlit or Flask
 * Use real-time banking datasets
-
